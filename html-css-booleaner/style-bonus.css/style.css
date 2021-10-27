@@ -1,0 +1,94 @@
+.contenitore {
+    background-color: rgb(38, 253, 85);
+    background-image: url(img/pattern.png);
+    background-repeat: repeat-x; 
+    height: 230px;
+
+}
+#logo{
+    height: 100px;
+    margin-left: 50%;
+    margin-top: 40px;
+}
+
+.dimensione-testo{
+    font-size: 20px;
+}    
+
+.testo-piccolo{
+    font-size: 13px;
+}
+
+.testo-chiaro{
+    color: rgb(223, 21, 213);
+}
+
+.testo-celeste{
+    color: rgb(255, 157, 0);
+}
+
+.sfondo-testo{
+    background-color: yellow;
+}
+
+.lista{
+    padding-left: 12px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: dimgrey;
+}
+
+table{
+    background-color: turquoise;
+    border-collapse: collapse;
+    
+}
+
+th {
+    padding: 1px 30px;
+}
+
+td{
+    padding: 15px 30px;
+}
+
+tr{
+    background-color: rgb(60, 255, 0);
+}
+
+.thead{
+    background-color: rgb(0, 0, 0);
+    color: cyan;
+}
+
+.cella-lime{
+    background-color: rgb(0, 250, 102);
+}
+
+.cella-blu{
+    background-color: rgb(0, 67, 251);
+    color: rgb(255, 255, 255);
+}
+    
+.penultima-foto{
+    color: white;
+    background-image: url(img/monitor.jpg);
+    height: 180px;
+    background-repeat: no-repeat;
+}
+
+.ultima-foto{
+    background-image: url(img/graph.jpg);
+    height: 180px;
+    background-repeat: no-repeat;
+}
+
+.testo-finale{
+    font-size: 25px;
+    color: rgb(0, 255, 55);
+    position: relative;
+    margin-left: 15px;
+    top: 10px;
+}
+
+
+

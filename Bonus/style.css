@@ -1,0 +1,75 @@
+body{
+    background-color: whitesmoke;
+}
+
+.audi{
+    width: 400px;
+    height: 400px;
+    background-image: url(https://www.autonocion.com/wp-content/uploads/2020/04/ABT-RS7-R-2020-1.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.importante{
+    color: blue;
+    text-decoration: underline red;
+}
+
+.importante-1{
+    background-color: yellow;
+}
+
+.importante-2{
+    background-color: lime;
+}
+
+.testo{
+    margin-left: 420px;
+    width: 100px;
+
+}
+
+.testo-1{
+    margin-top: 105px;
+}
+
+.moto{
+    width: 400px;
+    height: 400px;
+    background-image: url(https://pm1.narvii.com/6403/b07f9a06e1aaeea357850f541116dc57769a5771_hq.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.testo-2{
+    margin-top: 95px;
+}
+
+table {
+    width: 100%;
+    border-spacing: 0;
+    border: 5px rgb(255, 0, 242) solid;
+    border-radius: 12px;
+}
+
+thead {
+    background-color: #000000;
+    color: white;
+}
+
+th, td {
+    padding: 10px 15px;
+} 
+
+.colored {
+    background-color: #f0fbbb;
+}
+
+th {
+    text-align: left;
+}
+
+.importante-3{
+    background-color: red;
+    color: white;
+}
